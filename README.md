@@ -1,6 +1,7 @@
 # aula2b
 
 A new Flutter project.
+![Screenshot_1643594025](https://user-images.githubusercontent.com/68884037/152093809-11c24ec9-0685-4112-a436-6c13dca02f29.png)
 
 ## Getting Started
 
